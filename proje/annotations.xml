@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>6</id>
+      <name>Machine State Detection</name>
+      <size>57</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-24 08:40:54.058284+00:00</created>
+      <updated>2026-08-24 12:09:12.336437+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>56</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1</id>
+          <start>0</start>
+          <stop>56</stop>
+          <url>http://localhost:8080/api/tasks/6/dataset/export/api/jobs/1</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>Elif</username>
+        <email>ericielif@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>truck</name>
+          <color>#66ff66</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bellows</name>
+          <color>#221e45</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cover_open</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cover_closed</name>
+          <color>#b7db1f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-08-24 12:09:36.392670+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_00000.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="351.97" ytl="34.77" xbr="453.25" ybr="148.26" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_00001.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="350.70" ytl="34.33" xbr="453.88" ybr="147.20" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_00002.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="352.79" ytl="34.33" xbr="452.49" ybr="150.06" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_00003.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="351.40" ytl="32.93" xbr="454.58" ybr="148.59" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_00004.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="477.37,93.02;548.09,104.33;541.02,194.85;516.97,300.22;467.39,360.00;195.29,360.00;154.19,359.63;147.83,274.06;476.66,114.94" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="370.22" ytl="37.05" xbr="464.34" ybr="139.53" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_00005.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="480.20,90.90;549.50,105.04;541.73,192.02;516.97,296.69;459.92,360.00;333.06,360.00;202.28,358.92;202.99,248.60;478.79,105.75" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="369.52" ytl="35.65" xbr="462.95" ybr="138.90" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_00006.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="372.31" ytl="35.65" xbr="462.25" ybr="143.71" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="480.91,89.48;548.80,102.92;542.43,184.25;524.05,275.47;440.90,360.00;324.26,360.00;253.20,358.92;262.39,217.48;479.49,109.99" z_order="0">
+    </polygon>
+  </image>
+  <image id="7" name="frame_00007.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="486.57,88.78;550.92,102.21;540.31,198.39;485.26,360.00;455.91,360.00;299.16,358.21;321.79,188.49;485.15,100.80" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="372.71" ytl="37.86" xbr="463.23" ybr="141.81" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_00008.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.12" ytl="37.15" xbr="461.81" ybr="141.81" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="488.69,87.36;550.21,98.68;541.02,196.97;485.86,358.92;313.31,356.09;366.34,163.74;487.98,105.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="9" name="frame_00009.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.42" ytl="36.44" xbr="463.23" ybr="141.11" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="492.93,85.24;549.50,97.26;538.19,207.58;487.98,358.92;440.78,360.00;392.78,360.00;338.06,337.70;402.41,146.06;491.52,107.16" z_order="0">
+    </polygon>
+  </image>
+  <image id="10" name="frame_00010.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.12" ytl="36.44" xbr="462.52" ybr="141.11" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="495.05,88.78;548.09,95.85;538.19,204.05;494.34,340.53;372.00,302.34;387.56,268.40;405.95,270.52;429.99,135.45;493.64,103.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="11" name="frame_00011.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="375.54" ytl="35.74" xbr="461.81" ybr="141.11" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="500.00,88.07;546.68,95.85;539.60,192.02;508.49,299.52;398.17,271.94;401.00,254.96;417.26,244.36;443.43,148.89;497.17,102.92" z_order="0">
+    </polygon>
+  </image>
+  <image id="12" name="frame_00012.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.82" ytl="35.75" xbr="462.63" ybr="141.50" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="423.26,247.24;519.85,271.51;546.40,110.37;524.43,90.23;489.18,88.40;468.12,118.15;458.05,136.92;450.73,220.24;434.70,218.40;419.60,233.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="13" name="frame_00013.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.36" ytl="36.21" xbr="461.26" ybr="141.50" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="438.82,226.64;524.89,247.24;543.66,140.58;524.89,107.16;487.35,103.04;466.29,126.85;469.04,168.96;450.27,193.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="14" name="frame_00014.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.82" ytl="35.29" xbr="461.71" ybr="141.96" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_00015.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.74" ytl="36.67" xbr="461.71" ybr="141.50" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_00016.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.92" ytl="35.14" xbr="460.71" ybr="140.27" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame_00017.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.63" ytl="37.26" xbr="460.36" ybr="137.45" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame_00018.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.98" ytl="37.26" xbr="462.47" ybr="137.45" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_00019.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.43" ytl="36.02" xbr="459.67" ybr="138.22" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame_00020.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.99" ytl="36.91" xbr="464.14" ybr="136.88" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame_00021.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.43" ytl="36.47" xbr="461.46" ybr="138.66" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame_00022.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="373.63" ytl="35.37" xbr="460.15" ybr="137.91" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="frame_00023.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="375.53" ytl="36.09" xbr="460.20" ybr="138.36" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="frame_00024.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="377.20" ytl="36.09" xbr="462.71" ybr="139.20" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_00025.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="375.53" ytl="36.09" xbr="461.88" ybr="140.88" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_00026.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="309.39" cy="255.67" rx="44.20" ry="28.29" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="376.37" ytl="36.93" xbr="461.04" ybr="141.72" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="1.63,354.65;295.89,202.92;332.77,212.14;383.91,186.15;388.94,131.66;427.50,140.04;447.62,110.70;539.00,133.33;544.87,167.71;524.75,266.63;477.25,360.00;337.89,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="27" name="frame_00027.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="371.98" cy="220.31" rx="44.20" ry="28.29" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="375.09" ytl="37.30" xbr="461.72" ybr="139.61" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="2.16,356.61;348.70,182.50;376.00,187.40;432.00,128.10;468.32,104.96;546.70,125.59;532.68,254.30;479.83,360.00;329.07,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="28" name="frame_00028.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="7.90,357.70;379.18,164.39;403.73,174.37;425.21,160.56;433.65,153.65;442.09,118.37;458.96,97.65;547.95,127.57;547.18,169.00;536.44,228.06;524.93,261.82;519.56,303.24;472.51,360.00;285.28,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="408.77" cy="192.74" rx="36.43" ry="14.87" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="374.58" ytl="37.82" xbr="460.50" ybr="142.15" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame_00029.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="377.73" ytl="36.01" xbr="461.59" ybr="139.96" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="33.57,343.49;418.79,146.07;425.77,135.59;461.59,97.16;551.56,124.24;533.22,238.67;509.63,302.43;487.82,360.00;35.30,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="435.25" cy="172.93" rx="27.95" ry="14.87" z_order="0">
+    </ellipse>
+  </image>
+  <image id="30" name="frame_00030.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="5.09,358.74;426.64,145.02;461.35,138.96;464.43,93.06;547.08,117.86;547.08,141.48;527.01,251.29;511.66,303.25;490.81,360.00;263.23,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="374.82" ytl="34.09" xbr="461.35" ybr="138.96" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="frame_00031.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="40.42,340.73;452.21,130.20;458.70,92.17;499.51,96.81;541.25,111.65;553.30,128.34;545.88,167.29;541.25,201.61;533.83,237.78;517.13,270.24;515.28,295.28;495.86,360.00;40.42,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="378.01" ytl="35.60" xbr="460.56" ybr="137.62" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="frame_00032.jpg" width="640" height="360">
+    <ellipse label="cover_open" source="manual" occluded="0" cx="242.13" cy="312.92" rx="44.98" ry="26.90" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="43.20,345.37;455.92,129.27;467.98,126.49;471.69,94.03;548.67,107.94;553.30,133.91;538.46,214.60;531.04,241.49;493.09,360.00;41.37,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="376.16" ytl="34.67" xbr="462.41" ybr="143.18" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="frame_00033.jpg" width="640" height="360">
+    <ellipse label="cover_open" source="manual" occluded="0" cx="281.08" cy="287.88" rx="37.56" ry="21.33" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="373.38" ytl="33.74" xbr="461.49" ybr="141.33" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="42.27,342.58;465.20,126.49;474.47,93.10;482.82,87.53;556.09,115.36;533.83,233.14;493.38,360.00;41.36,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="34" name="frame_00034.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.30" ytl="33.74" xbr="459.63" ybr="141.33" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="77.52,323.11;473.54,119.07;476.32,93.10;558.87,112.57;541.25,202.54;530.12,241.49;493.08,360.00;93.20,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="320.96" cy="258.66" rx="33.85" ry="19.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="35" name="frame_00035.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="65.46,311.98;475.40,110.72;478.18,92.17;555.16,107.94;542.17,196.05;499.36,360.00;75.62,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="349.71" cy="239.65" rx="31.07" ry="15.77" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="373.38" ytl="34.67" xbr="458.70" ybr="143.18" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="frame_00036.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="114.62,285.08;480.03,106.08;483.74,91.24;552.38,102.37;554.23,135.76;533.83,237.78;503.22,326.82;476.32,360.00;129.41,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="374.30" ytl="35.60" xbr="462.41" ybr="141.33" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="378.01" cy="217.39" rx="33.39" ry="14.84" z_order="0">
+    </ellipse>
+  </image>
+  <image id="37" name="frame_00037.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="375.23" ytl="34.67" xbr="462.41" ybr="141.33" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="392.78" cy="206.84" rx="27.78" ry="14.74" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="154.50,268.39;478.18,106.08;484.67,89.39;555.16,103.30;544.96,194.19;526.41,266.53;515.28,300.85;479.43,360.00;161.82,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="38" name="frame_00038.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="374.78" ytl="33.57" xbr="464.60" ybr="142.01" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="149.13,265.79;477.75,106.96;483.22,89.43;552.23,99.29;553.33,123.39;541.28,195.69;518.28,304.13;468.98,358.90;162.28,359.99" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="392.70" cy="206.95" rx="29.65" ry="14.45" z_order="0">
+    </ellipse>
+  </image>
+  <image id="39" name="frame_00039.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="162.25,356.09;150.08,263.79;479.74,106.56;481.77,86.28;549.73,101.49;554.80,121.78;543.64,189.74;533.50,235.39;517.27,296.25;470.45,360.00;399.05,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="373.10" ytl="34.91" xbr="459.38" ybr="141.20" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="393.63" cy="207.85" rx="28.03" ry="14.15" z_order="0">
+    </ellipse>
+  </image>
+  <image id="40" name="frame_00040.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="163.24,360.00;149.07,264.80;481.77,112.65;482.78,91.35;552.77,102.51;543.64,190.75;531.47,242.49;513.21,318.56;471.78,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="391.03" cy="203.48" rx="30.43" ry="12.18" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="373.23" ytl="35.56" xbr="461.48" ybr="141.05" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="frame_00041.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="358.02" ytl="32.52" xbr="451.34" ybr="153.22" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="394.18" cy="207.47" rx="30.58" ry="13.63" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="162.25,359.14;148.05,265.82;481.77,106.56;482.78,91.35;550.74,102.51;543.64,184.67;535.53,214.08;517.27,301.32;470.73,360.00;425.10,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="42" name="frame_00042.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="162.28,357.93;147.73,269.84;483.26,108.97;484.03,88.28;554.50,101.31;543.01,191.70;530.76,251.45;517.73,297.42;467.17,358.70" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="394.40" cy="205.80" rx="29.10" ry="13.80" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="349.97" ytl="31.59" xbr="452.62" ybr="176.38" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame_00043.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="164.56,359.90;146.43,265.02;478.98,109.62;484.56,85.85;553.58,99.79;544.51,187.01;538.24,206.53;517.32,300.57;471.08,360.00;206.60,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="392.16" cy="204.82" rx="30.33" ry="13.22" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="354.88" ytl="33.63" xbr="451.09" ybr="193.98" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="frame_00044.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="165.25,357.05;148.52,265.02;350.00,170.97;481.07,106.07;481.77,90.10;552.88,101.18;544.51,187.70;527.78,259.44;509.66,313.82;468.36,360.00;416.68,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="390.06" cy="205.44" rx="26.84" ry="11.49" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="350.00" ytl="33.63" xbr="448.30" ybr="216.98" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="frame_00045.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="165.14,360.00;147.13,265.02;481.07,108.92;482.47,87.24;550.79,99.79;554.27,128.37;542.42,193.28;520.11,295.69;469.00,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="355.58" ytl="36.35" xbr="452.49" ybr="221.10" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="394.94" cy="208.56" rx="28.24" ry="14.31" z_order="0">
+    </ellipse>
+  </image>
+  <image id="46" name="frame_00046.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="394.96" cy="208.58" rx="31.39" ry="13.59" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="356.28" ytl="32.17" xbr="450.40" ybr="216.91" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="163.16,359.21;149.22,265.02;481.07,108.16;483.16,88.01;554.27,99.79;543.82,199.56;520.81,291.58;471.36,360.00;250.40,360.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="47" name="frame_00047.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="393.91" cy="209.63" rx="32.44" ry="10.81" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="163.16,359.90;147.83,266.41;479.68,111.71;481.07,88.01;557.06,100.49;540.33,197.39;514.54,307.55;472.49,360.00;205.59,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="355.58" ytl="35.02" xbr="449.70" ybr="217.00" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="frame_00048.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="353.49" ytl="32.23" xbr="449.70" ybr="216.91" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="162.95,360.00;147.13,265.02;478.98,108.16;483.86,89.40;551.49,101.95;552.18,123.56;540.33,203.67;516.63,301.27;479.11,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="394.60" cy="207.54" rx="32.07" ry="11.50" z_order="0">
+    </ellipse>
+  </image>
+  <image id="49" name="frame_00049.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="355.58" ytl="34.33" xbr="450.40" ybr="216.30" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="164.92,360.00;149.22,265.02;481.07,108.92;482.47,88.01;551.49,100.49;543.12,193.98;520.11,296.46;467.83,359.90;453.91,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="392.28" cy="209.28" rx="29.04" ry="12.89" z_order="0">
+    </ellipse>
+  </image>
+  <image id="50" name="frame_00050.jpg" width="640" height="360">
+    <box label="bellows" source="manual" occluded="0" xtl="356.80" ytl="34.62" xbr="450.37" ybr="215.31" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="393.89" cy="210.10" rx="29.85" ry="11.70" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="163.20,359.70;146.26,263.71;477.80,113.68;481.83,88.67;556.04,99.96;540.71,199.99;518.13,294.36;469.73,358.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="51" name="frame_00051.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="395.50" cy="209.29" rx="30.65" ry="12.50" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="164.82,359.70;147.88,270.16;480.22,106.42;481.83,87.06;549.59,100.77;544.75,195.15;523.77,280.65;467.31,359.70" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="356.80" ytl="32.20" xbr="451.98" ybr="216.93" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="frame_00052.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="164.01,358.90;145.46,266.13;480.22,111.26;481.83,87.86;548.78,101.58;543.13,190.31;516.51,301.62;470.59,360.00;268.37,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="394.70" cy="210.50" rx="33.07" ry="10.49" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="356.80" ytl="34.62" xbr="449.56" ybr="219.35" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="frame_00053.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="164.82,358.90;147.88,267.75;480.22,111.26;481.83,87.86;547.97,96.74;544.75,191.11;510.87,312.92;466.92,360.00;302.12,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="357.61" ytl="33.01" xbr="451.18" ybr="216.12" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="393.89" cy="211.71" rx="35.49" ry="10.89" z_order="0">
+    </ellipse>
+  </image>
+  <image id="54" name="frame_00054.jpg" width="640" height="360">
+    <polygon label="truck" source="manual" occluded="0" points="94.64,359.70;75.28,280.65;473.76,112.87;475.38,86.25;552.81,103.19;535.87,204.83;498.77,326.63;466.82,360.00;117.27,360.00" z_order="0">
+    </polygon>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="393.08" cy="199.21" rx="34.69" ry="10.49" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="354.38" ytl="34.62" xbr="451.18" ybr="209.67" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame_00055.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="391.87" cy="198.80" rx="35.09" ry="11.70" z_order="0">
+    </ellipse>
+    <polygon label="truck" source="manual" occluded="0" points="94.16,360.00;76.09,280.65;473.76,119.32;472.96,87.86;552.81,103.19;535.07,216.12;500.38,322.60;467.38,360.00" z_order="0">
+    </polygon>
+    <box label="bellows" source="manual" occluded="0" xtl="354.38" ytl="33.82" xbr="449.56" ybr="204.83" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="frame_00056.jpg" width="640" height="360">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="390.66" cy="199.60" rx="31.46" ry="12.90" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="352.77" ytl="32.20" xbr="452.79" ybr="206.44" z_order="0">
+    </box>
+    <polygon label="truck" source="manual" occluded="0" points="96.12,360.00;75.28,279.84;472.15,115.29;473.76,90.28;550.39,101.58;536.68,206.44;504.41,310.50;465.74,360.00" z_order="0">
+    </polygon>
+  </image>
+</annotations>

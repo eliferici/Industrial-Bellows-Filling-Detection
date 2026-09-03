@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# YOLO
+runs/
+*.pt
+*.onnx
+
+# Datasets
+new_images2/
+dataset/images/
+dataset/labels/
+
+# Proje içindeki görüntü ve datasetler
+proje/images/
+proje/images2/
+proje/labels/
+proje/labels2/
+proje/dataset/images/
+proje/dataset/labels/
+proje/runs/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

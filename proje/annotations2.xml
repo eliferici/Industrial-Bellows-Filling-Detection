@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>9</id>
+      <name>detection_bellows</name>
+      <size>92</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-08-25 14:13:16.651930+00:00</created>
+      <updated>2026-08-25 14:34:31.437586+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>91</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4</id>
+          <start>0</start>
+          <stop>91</stop>
+          <url>http://localhost:8080/api/tasks/9/dataset/export/api/jobs/4</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>Elif</username>
+        <email>ericielif@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>bellows</name>
+          <color>#221e45</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cover_open</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cover_closed</name>
+          <color>#b7db1f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-08-25 14:35:24.694575+00:00</dumped>
+  </meta>
+  <image id="0" name="frame_00000.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2136.30" ytl="216.57" xbr="2449.82" ybr="852.00" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_00001.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2133.60" ytl="220.96" xbr="2466.10" ybr="851.86" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_00002.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2126.78" ytl="219.26" xbr="2466.10" ybr="850.15" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_00003.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2123.37" ytl="219.26" xbr="2466.10" ybr="853.60" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_00004.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2137.01" ytl="229.49" xbr="2469.51" ybr="848.45" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_00005.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2125.08" ytl="226.08" xbr="2464.40" ybr="846.74" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_00006.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2130.19" ytl="229.49" xbr="2472.92" ybr="851.86" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame_00007.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2128.49" ytl="229.49" xbr="2471.22" ybr="851.86" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_00008.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2125.08" ytl="229.50" xbr="2469.51" ybr="845.04" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame_00009.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2125.08" ytl="231.19" xbr="2466.10" ybr="834.81" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame_00010.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2130.19" ytl="229.49" xbr="2467.81" ybr="834.81" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame_00011.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2131.90" ytl="227.78" xbr="2469.51" ybr="851.86" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame_00012.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2133.60" ytl="231.19" xbr="2467.81" ybr="838.22" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame_00013.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2135.31" ytl="227.78" xbr="2467.81" ybr="848.45" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="frame_00014.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2126.78" ytl="227.78" xbr="2466.10" ybr="834.81" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_00015.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2131.90" ytl="226.08" xbr="2466.10" ybr="804.12" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_00016.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2123.37" ytl="229.49" xbr="2467.81" ybr="804.12" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame_00017.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2126.78" ytl="229.49" xbr="2464.40" ybr="805.82" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame_00018.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2126.78" ytl="234.60" xbr="2466.10" ybr="805.82" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_00019.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2130.19" ytl="231.19" xbr="2467.81" ybr="804.12" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame_00020.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2130.19" ytl="231.19" xbr="2467.81" ybr="804.12" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame_00021.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2128.49" ytl="229.49" xbr="2471.22" ybr="809.23" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame_00022.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2138.72" ytl="226.08" xbr="2467.81" ybr="805.82" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="frame_00023.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2126.78" ytl="224.37" xbr="2462.69" ybr="812.64" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="frame_00024.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2130.19" ytl="232.90" xbr="2467.81" ybr="810.94" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_00025.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="1687.59" ytl="154.67" xbr="2213.44" ybr="1092.21" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_00026.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="2068.10" ytl="227.32" xbr="2462.53" ybr="735.87" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="1325.92" cy="1177.10" rx="314.82" ry="160.85" z_order="0">
+    </ellipse>
+  </image>
+  <image id="27" name="frame_00027.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="1351.91" cy="1171.88" rx="314.82" ry="160.85" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="2050.80" ytl="223.86" xbr="2448.69" ybr="732.41" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame_00028.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="961.09" ytl="57.80" xbr="1739.49" ybr="1611.14" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2090.52" cy="921.10" rx="122.81" ry="62.25" z_order="0">
+    </ellipse>
+  </image>
+  <image id="29" name="frame_00029.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="955.79" ytl="59.63" xbr="1734.19" ybr="1612.97" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2090.55" cy="912.40" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="30" name="frame_00030.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="962.70" ytl="63.09" xbr="1737.60" ybr="1616.43" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="31" name="frame_00031.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="961.00" ytl="52.71" xbr="1735.90" ybr="1606.05" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="922.79" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="32" name="frame_00032.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="981.76" ytl="63.09" xbr="1756.66" ybr="1616.43" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="33" name="frame_00033.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="974.84" ytl="52.71" xbr="1749.74" ybr="1606.05" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="34" name="frame_00034.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="964.46" ytl="59.63" xbr="1739.36" ybr="1612.97" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="35" name="frame_00035.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="967.92" ytl="49.26" xbr="1742.82" ybr="1602.59" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="922.79" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="36" name="frame_00036.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="978.30" ytl="63.09" xbr="1753.20" ybr="1616.43" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2092.25" cy="922.79" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="37" name="frame_00037.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="981.76" ytl="49.26" xbr="1756.66" ybr="1602.59" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="915.87" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="38" name="frame_00038.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="964.46" ytl="59.63" xbr="1739.36" ybr="1612.97" z_order="0">
+    </box>
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="922.79" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+  </image>
+  <image id="39" name="frame_00039.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="967.92" ytl="52.71" xbr="1742.82" ybr="1606.05" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="frame_00040.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="926.25" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="964.46" ytl="63.09" xbr="1739.36" ybr="1616.43" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="frame_00041.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="922.79" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="971.38" ytl="49.26" xbr="1746.28" ybr="1602.59" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame_00042.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2074.95" cy="926.25" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="971.38" ytl="59.63" xbr="1746.28" ybr="1612.97" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame_00043.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="940.09" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="929.84" ytl="59.63" xbr="1749.74" ybr="1215.10" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1357.08" cy="1517.83" rx="195.48" ry="124.54" z_order="0">
+    </ellipse>
+  </image>
+  <image id="44" name="frame_00044.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="938.50" ytl="68.29" xbr="1758.40" ybr="1054.20" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1521.29" rx="195.48" ry="124.54" z_order="0">
+    </ellipse>
+  </image>
+  <image id="45" name="frame_00045.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="931.58" ytl="68.29" xbr="1772.20" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1517.83" rx="195.48" ry="124.54" z_order="0">
+    </ellipse>
+  </image>
+  <image id="46" name="frame_00046.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2074.95" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="921.22" ytl="54.46" xbr="1775.70" ybr="1043.86" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1517.83" rx="195.48" ry="124.54" z_order="0">
+    </ellipse>
+  </image>
+  <image id="47" name="frame_00047.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2078.41" cy="929.71" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="928.13" ytl="61.38" xbr="1782.61" ybr="1050.78" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1353.63" cy="1509.16" rx="200.67" ry="128.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="48" name="frame_00048.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2092.25" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="71.75" xbr="1775.69" ybr="1061.16" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1517.83" rx="200.67" ry="128.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="49" name="frame_00049.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="907.37" ytl="68.30" xbr="1761.85" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1517.83" rx="200.67" ry="131.47" z_order="0">
+    </ellipse>
+  </image>
+  <image id="50" name="frame_00050.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="943.55" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="903.91" ytl="71.75" xbr="1758.39" ybr="1061.16" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1521.29" rx="200.67" ry="128.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="51" name="frame_00051.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="950.47" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="914.29" ytl="75.21" xbr="1768.77" ybr="1064.62" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1353.59" cy="1510.95" rx="200.69" ry="136.65" z_order="0">
+    </ellipse>
+  </image>
+  <image id="52" name="frame_00052.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="71.75" xbr="1775.69" ybr="1061.16" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1517.83" rx="200.67" ry="128.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="53" name="frame_00053.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2081.87" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="900.45" ytl="78.67" xbr="1754.93" ybr="1068.08" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1514.37" rx="200.67" ry="128.01" z_order="0">
+    </ellipse>
+  </image>
+  <image id="54" name="frame_00054.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="907.37" ytl="85.59" xbr="1761.85" ybr="1075.00" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1519.54" rx="200.67" ry="138.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="55" name="frame_00055.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2088.79" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="907.37" ytl="71.75" xbr="1761.85" ybr="1061.16" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1358.83" cy="1517.85" rx="200.67" ry="131.45" z_order="0">
+    </ellipse>
+  </image>
+  <image id="56" name="frame_00056.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2078.41" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="890.07" ytl="89.05" xbr="1744.55" ybr="1078.46" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1358.85" cy="1517.80" rx="204.15" ry="148.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="57" name="frame_00057.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="928.13" ytl="71.75" xbr="1782.61" ybr="1061.16" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1362.29" cy="1521.31" rx="200.67" ry="131.49" z_order="0">
+    </ellipse>
+  </image>
+  <image id="58" name="frame_00058.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2092.25" cy="936.63" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="903.91" ytl="68.30" xbr="1758.39" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1524.75" rx="200.67" ry="131.49" z_order="0">
+    </ellipse>
+  </image>
+  <image id="59" name="frame_00059.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="933.17" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="914.29" ytl="68.30" xbr="1768.77" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1355.37" cy="1521.29" rx="200.67" ry="131.49" z_order="0">
+    </ellipse>
+  </image>
+  <image id="60" name="frame_00060.jpg" width="3200" height="1800">
+    <ellipse label="cover_closed" source="manual" occluded="0" cx="2085.33" cy="926.25" rx="147.00" ry="84.75" z_order="0">
+    </ellipse>
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="64.84" xbr="1772.23" ybr="1054.24" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1358.83" cy="1524.75" rx="200.67" ry="131.49" z_order="0">
+    </ellipse>
+  </image>
+  <image id="61" name="frame_00061.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="893.53" ytl="64.84" xbr="1748.01" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="frame_00062.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="924.67" ytl="68.30" xbr="1779.15" ybr="1057.70" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="frame_00063.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="903.91" ytl="68.30" xbr="1758.39" ybr="1057.70" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame_00064.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="57.92" xbr="1775.69" ybr="1047.32" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="frame_00065.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="900.45" ytl="57.92" xbr="1765.30" ybr="1047.32" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="frame_00066.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="61.38" xbr="1772.23" ybr="1050.78" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="frame_00067.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="928.13" ytl="64.84" xbr="1782.61" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="frame_00068.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="896.99" ytl="64.84" xbr="1751.47" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="frame_00069.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="910.83" ytl="64.84" xbr="1765.31" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="frame_00070.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="910.83" ytl="68.30" xbr="1765.31" ybr="1057.70" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="frame_00071.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="57.92" xbr="1775.69" ybr="1047.32" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1546.25" cy="1386.51" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="72" name="frame_00072.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="910.83" ytl="61.38" xbr="1765.31" ybr="1050.78" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1928.20" cy="1129.32" rx="196.90" ry="127.72" z_order="0">
+    </ellipse>
+  </image>
+  <image id="73" name="frame_00073.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="914.29" ytl="68.30" xbr="1768.77" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="2130.45" cy="941.90" rx="141.95" ry="86.80" z_order="0">
+    </ellipse>
+  </image>
+  <image id="74" name="frame_00074.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="64.84" xbr="1775.69" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="frame_00075.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="914.29" ytl="64.84" xbr="1768.77" ybr="1054.24" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="frame_00076.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="61.38" xbr="1772.23" ybr="1050.78" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="frame_00077.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="910.83" ytl="57.92" xbr="1765.31" ybr="1047.32" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="frame_00078.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="924.67" ytl="54.46" xbr="1779.15" ybr="1054.20" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="frame_00079.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="928.13" ytl="51.00" xbr="1782.61" ybr="1054.24" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="2123.98" cy="941.74" rx="188.73" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="80" name="frame_00080.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="903.91" ytl="48.43" xbr="1758.39" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1991.66" cy="1047.61" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="81" name="frame_00081.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="886.61" ytl="47.50" xbr="1741.09" ybr="1054.24" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1775.85" cy="1194.19" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="82" name="frame_00082.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="900.45" ytl="51.00" xbr="1754.93" ybr="1054.24" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1759.56" cy="1218.62" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="83" name="frame_00083.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="54.46" xbr="1772.23" ybr="1061.20" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1763.64" cy="1214.55" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="84" name="frame_00084.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="47.54" xbr="1772.23" ybr="1054.20" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1763.64" cy="1210.48" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="85" name="frame_00085.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="910.83" ytl="57.92" xbr="1765.31" ybr="1047.32" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1832.86" cy="1153.47" rx="223.35" ry="133.39" z_order="0">
+    </ellipse>
+  </image>
+  <image id="86" name="frame_00086.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="51.00" xbr="1775.69" ybr="1047.32" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1918.38" cy="1106.63" rx="211.12" ry="125.27" z_order="0">
+    </ellipse>
+  </image>
+  <image id="87" name="frame_00087.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="61.38" xbr="1772.23" ybr="1050.78" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1973.40" cy="1071.97" rx="196.85" ry="121.17" z_order="0">
+    </ellipse>
+  </image>
+  <image id="88" name="frame_00088.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="68.30" xbr="1772.23" ybr="1057.70" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1952.92" cy="1070.03" rx="192.82" ry="119.12" z_order="0">
+    </ellipse>
+  </image>
+  <image id="89" name="frame_00089.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="917.75" ytl="54.46" xbr="1772.23" ybr="1043.86" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1959.05" cy="1084.23" rx="192.85" ry="133.37" z_order="0">
+    </ellipse>
+  </image>
+  <image id="90" name="frame_00090.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="921.21" ytl="54.46" xbr="1775.69" ybr="1043.86" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1963.16" cy="1076.11" rx="192.85" ry="133.37" z_order="0">
+    </ellipse>
+  </image>
+  <image id="91" name="frame_00091.jpg" width="3200" height="1800">
+    <box label="bellows" source="manual" occluded="0" xtl="928.13" ytl="54.46" xbr="1782.61" ybr="1054.20" z_order="0">
+    </box>
+    <ellipse label="cover_open" source="manual" occluded="0" cx="1950.94" cy="1080.18" rx="192.85" ry="133.37" z_order="0">
+    </ellipse>
+  </image>
+</annotations>

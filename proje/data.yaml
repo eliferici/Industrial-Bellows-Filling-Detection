@@ -1,0 +1,10 @@
+path: C:/Users/erici/Downloads/lexigrid/lexigrid/docs/detection/proje/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: truck
+  1: bellows
+  2: cover_open
+  3: cover_closed
